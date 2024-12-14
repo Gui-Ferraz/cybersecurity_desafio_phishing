@@ -15,7 +15,7 @@ Este é um desafio proposto pela DIO no Santander Bootcamp Cibersegurança #2.
 
 A partir deste ponto, usar a opção **Site Cloner** para coletar as credenciais do facebook não é suficiente, devido as medidas de segurança do site. Para contornar este problema, utilizei o [método sugerido pelo Weslley Costa](https://github.com/cassiano-dio/cibersecurity-desafio-phishing), que consiste em usar a opção **Custom Import** do _setoolkit_.
 
-- Método de ataque **Custom Import**: 3
+- Método de ataque **Custom Import**: `3`
 - Em seguida, o _setoolkit_ vai pedir para inserir o IP em que será hospedado a página phishing. Apenas pressione ENTER para usar o IP da máquina. Para conferir o IP manualmente, execute o comando `ifconfig`.
 
 ### Configurando a página phishing
